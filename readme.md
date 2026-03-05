@@ -1,3 +1,9 @@
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/COD3D%20BY-LEONAMAHORO-red?style=for-the-badge&logo=matrix">
+</p>
 # 🔥 PH4NTOM_KEYL0GG3R 🔥
 
 <p align="center">
@@ -166,3 +172,4 @@ Set `self.headless_mode = False` to watch browsers in action.
   <b>⌨️ CODE WITH POWER • USE WITH RESPONSIBILITY ⌨️</b><br>
   <sub>For educational purposes only. Don't be stupid.</sub>
 </p>
+
