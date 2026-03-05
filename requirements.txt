@@ -1,0 +1,5 @@
+# Core requirements
+pynput==1.7.6
+selenium==4.18.1
+beautifulsoup4==4.12.3
+webdriver-manager==4.0.1
